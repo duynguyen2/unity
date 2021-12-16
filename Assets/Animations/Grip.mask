@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grip
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/indexProximal
+    m_Weight: 1
+  - m_Path: Armature/indexProximal/indexMiddle
+    m_Weight: 1
+  - m_Path: Armature/indexProximal/indexMiddle/indexDistal
+    m_Weight: 1
+  - m_Path: Armature/indexProximal/indexMiddle/indexDistal/indexDistal_end
+    m_Weight: 1
+  - m_Path: Armature/middleProximal
+    m_Weight: 0
+  - m_Path: Armature/middleProximal/middleMiddle
+    m_Weight: 1
+  - m_Path: Armature/middleProximal/middleMiddle/middleDistal
+    m_Weight: 1
+  - m_Path: Armature/middleProximal/middleMiddle/middleDistal/middleDistal_end
+    m_Weight: 1
+  - m_Path: Armature/Palm
+    m_Weight: 0
+  - m_Path: Armature/Palm/Palm_end
+    m_Weight: 1
+  - m_Path: Armature/pinkyProximal
+    m_Weight: 0
+  - m_Path: Armature/pinkyProximal/pinkyMiddle
+    m_Weight: 1
+  - m_Path: Armature/pinkyProximal/pinkyMiddle/pinkyDistal
+    m_Weight: 1
+  - m_Path: Armature/pinkyProximal/pinkyMiddle/pinkyDistal/pinkyDistal_end
+    m_Weight: 1
+  - m_Path: Armature/ringProximal
+    m_Weight: 0
+  - m_Path: Armature/ringProximal/ringMiddle
+    m_Weight: 1
+  - m_Path: Armature/ringProximal/ringMiddle/ringDistal
+    m_Weight: 1
+  - m_Path: Armature/ringProximal/ringMiddle/ringDistal/ringDistal_end
+    m_Weight: 1
+  - m_Path: Armature/thumbMeta
+    m_Weight: 0
+  - m_Path: Armature/thumbMeta/thumbProximal
+    m_Weight: 1
+  - m_Path: Armature/thumbMeta/thumbProximal/thumbDistal
+    m_Weight: 1
+  - m_Path: Armature/thumbMeta/thumbProximal/thumbDistal/thumbDistal_end
+    m_Weight: 1
+  - m_Path: Hand
+    m_Weight: 1
